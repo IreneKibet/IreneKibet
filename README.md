@@ -10,4 +10,4 @@ Tools💻: R, Tableau, SQL and Python to create data-driven, and innovative solu
 
  <!---Github Stats--->
 [![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneKibet)](https://github.com/IreneKibet/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneKibet&show_icons=true&theme=tokyonight)
+[![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneKibet&show_icons=true&theme=gruvbox)
